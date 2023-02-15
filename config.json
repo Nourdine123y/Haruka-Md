@@ -1,6 +1,6 @@
 {
     "ownerNumber": ["212636805294@s.whatsapp.net","212636805294@s.whatsapp.net"],
-    "ownerName": "mr gorilla🐧",
+    "ownerName": "mr gorilla",
     "instagram" : "https://instagram.com/oki_ba_ye?igshid=NTA5ZTk1NTc= ",
     "botName": "✓Mr gorilla√ ",
     "footer": "api.zeeoneofc.xyz",
@@ -12,7 +12,7 @@
     "auto_leaveMsg": true,    
     "autobio": true,
     "anticall": true,
-    "autorespond": false,
+    "autorespond": true,
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
